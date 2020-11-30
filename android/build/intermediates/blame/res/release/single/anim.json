@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/b6bbe1fccd0e24e47391dfc5b6f16b42/jetified-react-native-0.63.3/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/b6bbe1fccd0e24e47391dfc5b6f16b42/jetified-react-native-0.63.3/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/b6bbe1fccd0e24e47391dfc5b6f16b42/jetified-react-native-0.63.3/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/b6bbe1fccd0e24e47391dfc5b6f16b42/jetified-react-native-0.63.3/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/b6bbe1fccd0e24e47391dfc5b6f16b42/jetified-react-native-0.63.3/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/b6bbe1fccd0e24e47391dfc5b6f16b42/jetified-react-native-0.63.3/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

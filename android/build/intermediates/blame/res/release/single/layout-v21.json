@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/ddca7bd3212a3c5f75966dded76dbce6/core-1.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/ddca7bd3212a3c5f75966dded76dbce6/core-1.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/ddca7bd3212a3c5f75966dded76dbce6/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/ddca7bd3212a3c5f75966dded76dbce6/core-1.0.1/res/layout-v21/notification_action.xml"
+    }
+]

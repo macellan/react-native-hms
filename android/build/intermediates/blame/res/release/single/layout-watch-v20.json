@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ugurozyilmaz/Desktop/projects/havaist-mobile-app/node_modules/react-native-hms-map/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ugurozyilmaz/.gradle/caches/transforms-2/files-2.1/a26d511acafc17dfb82e4a43437158c6/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]
